@@ -2,7 +2,16 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <device id="_device_class_phone" />
+        <device id="Nexus 10" />
+        <device id="pixel_4" />
+        <device id="pixel_8_pro" />
+        <device id="wearos_large_round" />
+        <device id="wearos_square" />
+        <device id="wearos_rect" />
+        <device id="wearos_small_round" />
+      </config>
     </shared>
     <layouts>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
@@ -16,9 +25,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30aa592e-f2fc-40ee-9d95-df46b3b621fc" name="Changes" comment="criacao projeto kotlin">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="30aa592e-f2fc-40ee-9d95-df46b3b621fc" name="Changes" comment="App Sorteio - criação da interface">
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/rauladrianoramos/meuprimeiroprojeto/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/rauladrianoramos/meuprimeiroprojeto/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +38,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[adb-f2f172fd8467-BwKx6G._adb-tls-connect._tcp]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -156,7 +165,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712099412293</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aula 1 - components conections">
+      <option name="closed" value="true" />
+      <created>1712143001347</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712143001347</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aula 2 - primeira funcao">
+      <option name="closed" value="true" />
+      <created>1712143935631</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712143935631</updated>
+    </task>
+    <task id="LOCAL-00005" summary="App Sorteio - criação da interface">
+      <option name="closed" value="true" />
+      <created>1712144235355</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712144235355</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +205,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criacao projeto kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="criacao projeto kotlin" />
+    <MESSAGE value="Aula 1 - components conections" />
+    <MESSAGE value="Aula 2 - primeira funcao" />
+    <MESSAGE value="App Sorteio - criação da interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="App Sorteio - criação da interface" />
   </component>
 </project>
