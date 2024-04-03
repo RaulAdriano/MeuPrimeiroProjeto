@@ -25,8 +25,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30aa592e-f2fc-40ee-9d95-df46b3b621fc" name="Changes" comment="Aula 1 - components conections">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="30aa592e-f2fc-40ee-9d95-df46b3b621fc" name="Changes" comment="App Sorteio - criação da interface">
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/rauladrianoramos/meuprimeiroprojeto/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/rauladrianoramos/meuprimeiroprojeto/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
@@ -174,7 +173,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712143001347</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Aula 2 - primeira funcao">
+      <option name="closed" value="true" />
+      <created>1712143935631</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712143935631</updated>
+    </task>
+    <task id="LOCAL-00005" summary="App Sorteio - criação da interface">
+      <option name="closed" value="true" />
+      <created>1712144235355</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712144235355</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criacao projeto kotlin" />
     <MESSAGE value="Aula 1 - components conections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 1 - components conections" />
+    <MESSAGE value="Aula 2 - primeira funcao" />
+    <MESSAGE value="App Sorteio - criação da interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="App Sorteio - criação da interface" />
   </component>
 </project>
